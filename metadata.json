@@ -1,0 +1,8 @@
+{
+  "name": "VELTRAVA HEALTH — Medical Billing & RCM Operations",
+  "description": "Professional medical billing, medical coding, and Revenue Cycle Management (RCM) services for US hospitals, physician practices, and healthcare billing organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
